@@ -3,6 +3,7 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
+#Calculate mean value from several file
 
 data_list = [] # empty list
 torque_x_list = []
